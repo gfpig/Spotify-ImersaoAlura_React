@@ -17,7 +17,7 @@ const Header = () => {
 
                     <div className="header__search">
                         <img src={search} alt="" />
-                        <input id="search-input" type="text" maxlength="800" placeholder="O que você quer ouvir?" />
+                        <input id="search-input" type="text" maxLength="800" placeholder="O que você quer ouvir?" />
                     </div>     
                 </div>
                 <div className="header__login">

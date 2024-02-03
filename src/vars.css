@@ -1,0 +1,12 @@
+:root {
+    /* FONT */
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /* COLORS */
+    --bg-icon: #F3D7CA;
+    --bg-arrow-color: #F3D7CA;
+
+    --column-count: 5;
+    --grid-gap: 24px;
+    --min-container-width: 372px;
+}
