@@ -6,6 +6,7 @@ import search from '../assets/icons/search.png';
 
 const Header = () => {
     return(
+        <>
         <nav className="header__navigation">
                 <div className="navigation">
                     <button className="arrow-left">
@@ -25,6 +26,7 @@ const Header = () => {
                     <button className="login">Entrar</button>
                 </div>
             </nav>
+        </>
     )
 };
 
